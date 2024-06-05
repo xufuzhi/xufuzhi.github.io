@@ -21214,7 +21214,7 @@ afw(a,b,c){return B.ee.en("routeInformationUpdated",A.aG(["uri",c.i(0),"state",b
 zd(a3){var s=0,r=A.N(t.H),q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$zd=A.J(function(a4,a5){if(a4===1)return A.K(a5,r)
 while(true)switch(s){case 0:a1=B.b.gN(B.fF.E().split("."))
-a2=A.ao5("POST",A.hR("http://127.0.0.1:8000/up_load_images"))
+a2=A.ao5("POST",A.hR("http://1.94.125.215:8005/up_load_images"))
 p=a3.length,o=a2.y,n=t.G5,m=t.zb,l=t.N,k=m.h("ev<1>"),j=0
 case 3:if(!(j<a3.length)){s=5
 break}i=a3[j]
